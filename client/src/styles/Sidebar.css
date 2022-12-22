@@ -1,0 +1,15 @@
+.border-right {
+    border-right: 1px solid #dee2e6 !important;
+    overflow: auto !important;
+    flex-grow: 1 !important;
+}
+
+.small {
+    border-right: 1px solid #dee2e6 !important;
+}
+
+.hgd {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100vh !important;
+}

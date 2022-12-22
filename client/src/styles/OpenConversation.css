@@ -1,0 +1,14 @@
+.hgb {
+    height: 75px !important;
+    margin-top: 0 !important;
+}
+
+.text-right {
+    text-align: right !important;
+    border: none !important;
+}
+
+.text-left {
+    text-align: left !important;
+    border: none !important;
+}
