@@ -1,0 +1,10 @@
+{
+  "homepage": "http://SHADOWHACKEROG.github.io/WHatsap-CLone",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
