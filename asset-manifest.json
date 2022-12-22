@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WHatsap-CLone/static/css/main.0d7a95d9.css",
+    "main.js": "/WHatsap-CLone/static/js/main.007554d8.js",
+    "index.html": "/WHatsap-CLone/index.html",
+    "main.0d7a95d9.css.map": "/WHatsap-CLone/static/css/main.0d7a95d9.css.map",
+    "main.007554d8.js.map": "/WHatsap-CLone/static/js/main.007554d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7a95d9.css",
+    "static/js/main.007554d8.js"
+  ]
+}
